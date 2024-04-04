@@ -1,3 +1,3 @@
-👋 Hi, I’m analyst from Syktyvkar
+👋 Hi, I’m analyst from Russia, Syktyvkar
 👀 I’m interested in data sience and analytics processes. 
 
