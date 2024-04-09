@@ -8,7 +8,7 @@
    My profiles:
 <div id="SM" align="left">
 
-   <a href="https://vk.com/id1902139", blank, class="logo"> 
+   <a href="https://vk.com/id1902139" blank class="logo"> 
    <img src='https://vsekortiki.ru/img/vk.png', height="20", alt = "VK", text-decoration=none>
    </a>
    &ensp;
