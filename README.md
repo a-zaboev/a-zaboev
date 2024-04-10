@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://static.wikia.nocookie.net/shovelknight/images/2/24/Rash.gif/revision/latest/scale-to-width/360?cb=20180411134938" align="right" width="410" height="330" data-animated-image="" data-canonical-src="https://static.wikia.nocookie.net/shovelknight/images/2/24/Rash.gif/revision/latest/scale-to-width/360?cb=20180411134938" style="max-width: 100%;"></a>
+<img src="https://static.wikia.nocookie.net/shovelknight/images/2/24/Rash.gif/revision/latest/scale-to-width/360?cb=20180411134938" style="max-width: 100%;" align="right" height="280">
 
 <div id="header" align="left">
 
