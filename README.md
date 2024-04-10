@@ -5,21 +5,23 @@
    👋 Hi, I’m analyst from Russia, Syktyvkar
    <br>
    👀 I’m interested in data sience and analytics processes.
-
+   
 </div>
+
+<img src='https://64.media.tumblr.com/e7f188db1eab3696c0e105444ec15621/e630606109eee0f9-7b/s2048x3072/eb03537725c27c3ee7ccac818f9a88f8b10989dd.pnj' width="500">
       <b>My profiles   </b>:
 <div id="SM" align="left">
 
    <a target="_blank" class="example-0" href="https://vk.com/id1902139"> 
-   <img src='https://vsekortiki.ru/img/vk.png', height="20", alt = "VK", text-decoration=none>
+   <img src='https://vsekortiki.ru/img/vk.png', height="40", alt = "VK", text-decoration=none>
    </a>
    &ensp;
    <a class="example-0" href="https://t.me/AntonZaboev"> 
-   <img src='https://static.tildacdn.com/tild3861-3935-4838-a565-376334646464/telegram-logo_1.png', height="20", alt = "Telegram">
+   <img src='https://static.tildacdn.com/tild3861-3935-4838-a565-376334646464/telegram-logo_1.png', height="40", alt = "Telegram">
    </a>
 </div>
    <br>
-
+<img src='https://64.media.tumblr.com/e7f188db1eab3696c0e105444ec15621/e630606109eee0f9-7b/s2048x3072/eb03537725c27c3ee7ccac818f9a88f8b10989dd.pnj' width="500">
 🛠️ <b>Languages and Tools</b>:
    <br>
 <div dir="auto">
