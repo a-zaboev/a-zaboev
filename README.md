@@ -8,12 +8,13 @@
    My profiles:
 <div id="SM" align="left">
 
-   <a href="https://vk.com/id1902139" target="_blank" class="logo" target="_blank"> 
+   <a target="_blank" class="example-0" href="https://vk.com/id1902139"> 
    <img src='https://vsekortiki.ru/img/vk.png', height="20", alt = "VK", text-decoration=none>
    </a>
    &ensp;
-   <a href="https://t.me/AntonZaboev" class="logo"> 
+   <a class="example-0" href="https://t.me/AntonZaboev"> 
    <img src='https://static.tildacdn.com/tild3861-3935-4838-a565-376334646464/telegram-logo_1.png', height="20", alt = "Telegram">
    </a>
 
 </div>
+
