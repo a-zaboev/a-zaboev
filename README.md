@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/shovelknight/images/2/24/Rash.gif/revision/latest/scale-to-width/360?cb=20180411134938" style="max-width: 100%;" align="right" height="200">
+<img src="https://static.wikia.nocookie.net/shovelknight/images/2/24/Rash.gif/revision/latest/scale-to-width/360?cb=20180411134938" style="max-width: 100%;" align="right" height="100">
 
 <div id="header" align="left">
 
