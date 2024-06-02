@@ -8,7 +8,7 @@
    
 </div>
 
-<img src='https://64.media.tumblr.com/e7f188db1eab3696c0e105444ec15621/e630606109eee0f9-7b/s2048x3072/eb03537725c27c3ee7ccac818f9a88f8b10989dd.pnj' width="500">
+<img src='https://64.media.tumblr.com/e7f188db1eab3696c0e105444ec15621/e630606109eee0f9-7b/s2048x3072/eb03537725c27c3ee7ccac818f9a88f8b10989dd.pnj' width="500" align="rigth">
 
 <b> My profiles   </b>:
 <br>
