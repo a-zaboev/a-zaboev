@@ -12,7 +12,7 @@
 
 <b> My profiles   </b>:
 <br>
-<div id="SM" align="left">
+<div id="SM" align="rigth">
 
    <a target="_blank" class="example-0" href="https://vk.com/id1902139"> 
    <img src='https://vsekortiki.ru/img/vk.png', height="20", alt = "VK", text-decoration=none>
