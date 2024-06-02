@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/shovelknight/images/2/24/Rash.gif/revision/latest/scale-to-width/360?cb=20180411134938" style="max-width: 100%;" align="right" height="100">
+<img src="https://static.wikia.nocookie.net/shovelknight/images/2/24/Rash.gif/revision/latest/scale-to-width/360?cb=20180411134938" style="max-width: 100%;" align="left" height="100">
 
 <div id="header" align="left">
 
@@ -8,11 +8,11 @@
    
 </div>
 
-<img src='https://64.media.tumblr.com/e7f188db1eab3696c0e105444ec15621/e630606109eee0f9-7b/s2048x3072/eb03537725c27c3ee7ccac818f9a88f8b10989dd.pnj' width="500" align="rigth">
+<img src='https://64.media.tumblr.com/e7f188db1eab3696c0e105444ec15621/e630606109eee0f9-7b/s2048x3072/eb03537725c27c3ee7ccac818f9a88f8b10989dd.pnj' width="500">
 
 <b> My profiles   </b>:
 <br>
-<div id="SM" align="rigth">
+<div id="SM" align="left">
 
    <a target="_blank" class="example-0" href="https://vk.com/id1902139"> 
    <img src='https://vsekortiki.ru/img/vk.png', height="20", alt = "VK", text-decoration=none>
