@@ -1,12 +1,9 @@
-
+<img src="https://static.wikia.nocookie.net/shovelknight/images/2/24/Rash.gif/revision/latest/scale-to-width/360?cb=20180411134938" style="max-width: 100%;" align="left" height="100">
 <div id="header" align="left">
 
    👋 Hi, I’m analyst from Russia, Syktyvkar
    <br>
    👀 I’m interested in data sience and analytics processes.
-      <br>
-   <img src="https://static.wikia.nocookie.net/shovelknight/images/2/24/Rash.gif/revision/latest/scale-to-width/360?cb=20180411134938" style="max-width: 100%;" align="left" height="100">
-
    
 </div>
    <br>
