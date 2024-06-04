@@ -2,13 +2,14 @@
    <div id="header" align="left" >
 
   <div> 👋 Hi, I’m analyst from Russia, Syktyvkar
-   <br>
+   <br>   <br>
    👀 I’m interested in data sience and analytics processes.  </div>
-
+   <br>   <br>
 <div>In this repository you can see my training projects, which, I think, can be used to judge my way of thinking and the skills of working with the data that I currently own. There are also my solutions that can be applied to analytical work in the company.</div> 
 </div>
+   <br>   <br>
 <div>В этом репозитории вы можете увидеть мои тренировочные проекты, по которым, как я думаю, можно судить о моём образе мысли и о навыках работы с данными, которыми я владею на данный момент. Здесь также есть мои решения, которые можно применить для аналитической работы в компании.</div>
-   <br>
+   <br>   <br>
 
 <img src='https://64.media.tumblr.com/e7f188db1eab3696c0e105444ec15621/e630606109eee0f9-7b/s2048x3072/eb03537725c27c3ee7ccac818f9a88f8b10989dd.pnj' width="500">
 
