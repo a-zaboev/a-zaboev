@@ -3,12 +3,12 @@
 
   <div> 👋 Hi, I’m analyst from Russia, Syktyvkar
    <br>  
-   👀 I’m interested in data sience and analytics processes.  </div>
+   👀 I’m interested in data sience and analytics.  </div>
    <br> 
-<div>In this profile you can see my training projects, which, I think, can be used to judge my way of thinking and the skills of working with the data that I currently own. There are also my solutions that can be applied to analytical work in the company.</div> 
+<div>In this profile you can see my projects, which, I think, can be used to judge my way of thinking and the skills of working with the data that I currently own. </div> 
 </div>
    <br>
-<div>В этом профиле вы можете увидеть мои тренировочные проекты, по которым, как я думаю, можно судить о моём образе мысли и о навыках работы с данными, которыми я владею на данный момент. Здесь также есть мои решения, которые можно применить для аналитической работы в компании.</div>
+<div>В этом профиле вы можете увидеть мои проекты и рабочие решения.</div>
 <img src='https://64.media.tumblr.com/e7f188db1eab3696c0e105444ec15621/e630606109eee0f9-7b/s2048x3072/eb03537725c27c3ee7ccac818f9a88f8b10989dd.pnj' width="500">
 
 <b> My profiles   </b>:
@@ -48,10 +48,10 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40" style="max-width: 100%;"></a> 
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40" style="max-width: 100%;"></a> 
 </div>
- <br>
-<img src='https://64.media.tumblr.com/e7f188db1eab3696c0e105444ec15621/e630606109eee0f9-7b/s2048x3072/eb03537725c27c3ee7ccac818f9a88f8b10989dd.pnj' width="500">
-<div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-zaboev&theme=default">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-zaboev&theme=default">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-zaboev&theme=default">
-</div>
+ # <br>
+# <img src='https://64.media.tumblr.com/e7f188db1eab3696c0e105444ec15621/e630606109eee0f9-7b/s2048x3072/eb03537725c27c3ee7ccac818f9a88f8b10989dd.pnj' width="500">
+# <div>
+# <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-zaboev&theme=default">
+# <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-zaboev&theme=default">
+# <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-zaboev&theme=default">
+# </div>
