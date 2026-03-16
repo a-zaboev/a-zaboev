@@ -2,9 +2,7 @@
    <div id="header" align="left" >
 
   <div> 👋 Hi, I’m analyst from Russia, Syktyvkar
-   <br>  
-   👀 I’m interested in data sience and analytics.  </div>
-   <br> 
+
 <div>In this profile you can see my projects, which, I think, can be used to judge my way of thinking and the skills of working with the data that I currently own. </div> 
 </div>
    <br>
